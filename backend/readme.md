@@ -1,9 +1,9 @@
 Steps to set up the project 
 
 
-'''npm i '''
+```npm install```
 
-'''npm run dev'''
+``` npm run dev ```
 
 
 These commands start the server on port 8000.
